@@ -47,16 +47,12 @@ b) Dashboard (<a href="https://mnb-house-rocket.streamlit.app/">link</a>).
 ### 4.3. Processo
 #### 4.3.1. Estratégia da solução
 
-Passo 01: Descrição dos dados;<br>
-Passo 02: Feature Engineering;<br>
-Passo 03: Filtragem das variáveis;<br>
-Passo 04: Análise Exploratória dos Dados;
-* Verificação de hipóteses;<br>
-* Verificação da correlação entre as features.
-
-Passo 05: Responder problemas de negócio;<br>
-Passo 06: Resultados para o negócio;<br>
-Passo 07: Conclusão.<br>
+Passo 01 - Descrição dos dados: ganho de conhecimento sobre os dados que serão utilizados;<br>
+Passo 02 - Feature Engineering: criação de novas features para melhor entendimento do negócio;<br>
+Passo 03 - Filtragem das variáveis: remoção de linhas e colunas que não contribuem com o fenômeno estudado;<br>
+Passo 04 - Análise Exploratória dos Dados (EDA): verificação de hipóteses e das correlações entre as features;<br>
+Passo 05 - Responder problemas de negócio: responder as questões de negócio;<br>
+Passo 06 - Resultados para o negócio: resultados finais encontrados.
 
 #### 4.3.2. Detalhamento da solução
 
